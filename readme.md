@@ -1,16 +1,21 @@
-# responsive-svg 
+# responsive-svg
 
-Description du projet 
+Explorer les techniques pour rendre responsive une image SVG
 
-## Prérequis 
+## Prérequis
 
-liste des connaissances requises 
+  - html
+  - svg
 
-## Étapes 
+## Étapes
 
-liste des étapes 
+### Pure CSS, approche contenant/contenu
 
-## Références 
+  - layout html
+  - css
 
-Références utiles et utilisées lors de la préparation de la démonstration 
+## Références
 
+[Making SVGs Responsive with CSS  par Sara Soueidan ](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
+[How to Scale SVG  par Amelia Bellamy-Royds](https://css-tricks.com/scale-svg/)
+[Make SVG Responsive sur the new code](http://thenewcode.com/744/Make-SVG-Responsive)
