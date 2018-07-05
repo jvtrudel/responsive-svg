@@ -14,6 +14,8 @@ Explorer les techniques pour rendre responsive une image SVG
   - layout html
   - css
 
+  (je vois pas trop de différence...)
+
 ## Références
 
 [Making SVGs Responsive with CSS  par Sara Soueidan ](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
